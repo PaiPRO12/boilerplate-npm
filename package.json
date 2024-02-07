@@ -1,1 +1,8 @@
-"author": "Paineto",
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate managing packages with npm",
+  "author": "Paineto",
+  "dependencies": {
+  },
+}
