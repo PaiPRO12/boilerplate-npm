@@ -1,15 +1,18 @@
 {
-  "name": "your-package-name",
-  "version": "1.0.0",
-  "description": "Your package description",
-  "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com",
-    "url": "https://yourwebsite.com"
-  },
-  "license": "MIT",
+  "name": "fcc-learn-npm-package-json",
+  "author": "paineto",
   "dependencies": {
+    "express": "^4.14.0"
   },
-  "devDependencies": {
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
   }
 }
